@@ -52,7 +52,7 @@ elif opção == 6:
     f = k*1.8-459.67
     print('Convertendo...')
     sleep(2)
-    print(f'{k}K é igual a {c:.2f}ºF')
+    print(f'{k}K é igual a {f:.2f}ºF')
 
 else:
     print('OPÇÃO INVALIDA!')
